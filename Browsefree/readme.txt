@@ -1,0 +1,1 @@
+open the index.html file as first and then click start browse.
